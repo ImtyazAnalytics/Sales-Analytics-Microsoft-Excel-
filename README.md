@@ -3,6 +3,11 @@
 
 ## Customer Performance Report
 
+![Customer Performance Report_page-0001](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/bad98d4d-1ba8-4743-92fc-4b19a782729a)
+
+![Customer Performance Report_page-0002](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/a5f8c514-ead8-45b1-af37-cb8bdac68a5d)
+
+
 ### Project Objective
 Develop a detailed analysis of customer performance metrics to drive strategic sales decisions.
 
@@ -25,6 +30,8 @@ Serve as the foundation for understanding customer contributions to revenue and 
 ---
 
 ## Market Performance vs Target
+
+![Market Performance vs Target_page-0001](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/ae5896d3-43bc-4336-8da6-01f14bd2e537)
 
 ### Project Objective
 Compare actual market performance to set targets to identify areas for improvement and successful strategies.
@@ -49,6 +56,9 @@ Integral in strategic planning and setting realistic future sales targets.
 
 ## P&L Statement by Fiscal Year
 
+![P L Statement by Fiscal Year_page-0001](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/302d9d16-daf0-4c52-8dcd-a74ff0efeb43)
+
+
 ### Project Objective
 Provide a financial overview with profit and loss statements categorized by fiscal year for analysis and strategic planning.
 
@@ -71,6 +81,8 @@ Essential for financial review and informed decision-making on cost management a
 ---
 
 ## P&L Statement by Markets
+![P L Statement by Markets_page-0001](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/5642373f-c5e7-41d4-ac4a-0f71e20d32f9)
+
 
 ### Project Objective
 Analyze profit and loss across different markets to inform market-specific strategies and identify performance trends.
@@ -94,6 +106,8 @@ Provide actionable insights for market segmentation and resource allocation deci
 ---
 
 ## P&L Statement by Months
+![P L Statement by Months_page-0001](https://github.com/ImtyazAnalytics/Excel-Sales-Analytics/assets/150198163/66e3a475-e10a-4c53-b660-0c93de1eb9e9)
+
 
 ### Project Objective
 Track monthly financial performance to provide a detailed view of profit and loss over time.
